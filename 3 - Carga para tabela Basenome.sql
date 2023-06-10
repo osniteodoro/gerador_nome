@@ -1,0 +1,92 @@
+/* -------------------------------------------------------------
+# Autor: 	Osni Teodoro de Souza Júnior
+# Objetivo: Gerar carga de dados de basenome "apenas primeiro Nome"
+-------------------------------------------------------------*/
+
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Edward','USA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Fernanda','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Amanda','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Mendes','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Nicolas','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Erin','USA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Sara','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Reginalda','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Toni','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Vanei','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Janak','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Eumar','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Euterra','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Webau','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Welter','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Agenilson','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Eigles','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Cleudson','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Keydson','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Catulino','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Katriel','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Job','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Deliro','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Adejaildo','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Gleicillaine','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Alaiulton','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Plínio','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Tarllis','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Josinaldo','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Francinilton','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Beliomar','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Belioterra','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Beliosol','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Severino','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Crystal','USA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Mary','USA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Elizabeth','USA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Barbara','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Erica','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Virginia','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Cipriano','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Cassandra','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Benito','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Giampaolo','ITA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Elladio','ITA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Todi','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Nescal','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Sandra','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Sandro','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Stefania','ITA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Pina','ITA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Stefani','ITA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Roberta','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Roberto','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Gianmarco','ITA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Amalia','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Ofélia','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Ema','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Rosa','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Efraín','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Mireia','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Adalberto','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Pedrito','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Ruan','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Telmo','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Natalio','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Ernesto','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Noé','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Macario','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Agustín','SPA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Camila','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Dafne','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Catalina','SPA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Nicanor','SPA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Pepe','SPA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Ainara','SPA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Silvio','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Sofía','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Edelmira','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Feliciano','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Teresita','BRA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Remedios','SPA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Arsenio','SPA');
+INSERT INTO dados.basenome(nome,tiponac)VALUES('Jennifer','BRA');
+
+
+
